@@ -1,0 +1,21 @@
+.row {
+	margin-top: 25px;
+	margin-bottom: 25px;	
+}
+
+img {
+	width: 100%;
+}
+
+.footer {
+	text-align: center;
+	background-color: #CDBA96;
+}
+
+.header {
+	background-color: #CDBA96;
+}
+
+.container {
+	width: 100%;
+}
